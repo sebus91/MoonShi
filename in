@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meme Coin - To The Moon!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>MemeCoin 🚀</h1>
+        <nav>
+            <a href="#about">À propos</a>
+            <a href="#tokenomics">Tokenomics</a>
+            <a href="#community">Communauté</a>
+            <a href="#faq">FAQ</a>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h2>Le MemeCoin ultime pour dominer l'univers crypto 🌕</h2>
+        <p>Rejoignez la révolution et amusez-vous en chemin. Acheter maintenant et partez vers la lune !</p>
+        <a href="#buy" class="btn-primary">Achetez maintenant</a>
+    </section>
+
+    <section id="about">
+        <h2>À propos</h2>
+        <p>MemeCoin est le nouveau projet hilarant qui combine fun et finance. Basé sur la communauté, il vise à redéfinir l'univers des tokens meme.</p>
+    </section>
+
+    <section id="tokenomics">
+        <h2>Tokenomics</h2>
+        <ul>
+            <li>🚀 Total Supply : 1 Trillion</li>
+            <li>🔥 50% Burné</li>
+            <li>🎁 10% Récompenses</li>
+            <li>🌐 40% Circulation</li>
+        </ul>
+    </section>
+
+    <section id="community">
+        <h2>Communauté</h2>
+        <p>Rejoignez-nous sur :</p>
+        <ul>
+            <li><a href="https://twitter.com">Twitter</a></li>
+            <li><a href="https://t.me">Telegram</a></li>
+            <li><a href="https://discord.com">Discord</a></li>
+        </ul>
+    </section>
+
+    <section id="faq">
+        <h2>FAQ</h2>
+        <h3>Comment acheter MemeCoin ?</h3>
+        <p>Utilisez PancakeSwap ou Uniswap pour échanger votre BNB ou ETH contre MemeCoin.</p>
+        <h3>Quel est le but de ce projet ?</h3>
+        <p>Créer un projet amusant qui rassemble la communauté crypto tout en générant de la valeur.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 MemeCoin. Tous droits réservés.</p>
+        <a href="#privacy">Politique de confidentialité</a> | <a href="#terms">Mentions légales</a>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
